@@ -1,18 +1,18 @@
 # Star-Fire-Project
 
-👋 Salut, je suis Myriam !
+✨ Coucou, je suis Myriam !
 
-Bienvenue sur mon GitHub ! 🚀 Passionnée par la technologie, les innovations et les inventions, je suis en cours de formation pour devenir Développeuse Full Stack. Mon parcours est une combinaison d’expériences variées allant de la gestion de projets à l’analyse de projets blockchain, en passant par la création de solutions web.
+Bienvenue sur mon GitHub ! Passionnée par la technologie, les innovations et les inventions, je suis en cours de formation pour devenir développeuse full stack. Mon parcours est une combinaison d’expériences variées allant de la gestion de projets à l’analyse de projets blockchain, en passant par la création de solutions web.
 
-🌱 Ma Vision de l'Apprentissage
+🎓 Ma Vision de l'Apprentissage
 
 Je crois fermement que l'apprentissage est un voyage continu. Chaque ligne de code est une occasion d'apprendre quelque chose de nouveau. Ma méthode repose sur :
 
-Curiosité active : Explorer, tester, comprendre le "pourquoi" derrière chaque concept.
+Curiosité active : explorer, tester, comprendre le "pourquoi" derrière chaque concept.
 
-Projets concrets : Rien de mieux que de construire des applications réelles pour intégrer les compétences.
+Projets concrets : rien de mieux que de construire des applications réelles pour intégrer les compétences.
 
-Partage des connaissances : L'innovation se nourrit de collaboration et d'échanges d'idées.
+Partage des connaissances : l'innovation se nourrit de collaboration et d'échanges d'idées.
 
 🚀 Ce que j'aime construire
 
