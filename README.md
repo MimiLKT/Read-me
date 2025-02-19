@@ -12,7 +12,7 @@ Projets concrets : rien de mieux que de construire des applications réelles pou
 
 Partage des connaissances : l'innovation se nourrit de collaboration et d'échanges d'idées.
 
-🚀 Ce que j'aime construire
+👾 Ce que j'aime construire
 
 Applications web interactives (HTML, CSS, JavaScript)
 
@@ -30,6 +30,6 @@ Email : myriam.civaton@gmail.com
 
 LinkedIn : www.linkedin.com/in/myriam-civaton
 
-Portfolio : [Bientôt en ligne]
+Portfolio : https://mimilkt.github.io/Portfolio
 
-Merci de visiter mon profil GitHub ! 🙌
+Merci de visiter mon profil GitHub ! 🤍
